@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rusyaidi
+# 👋 Hello everyone! I’m Rusyaidi
 
 A Computer Science student at **IIUM** who loves building things, exploring decentralized tech, and automating the mundane.
 
@@ -43,12 +43,17 @@ A Computer Science student at **IIUM** who loves building things, exploring dece
 
 ---
 
-## 📫 Connect with me
+### 📬 Connect with Me
 
-🔗 [GitHub](https://github.com/Rewsyaydee)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rusyaidimohdhusni)  
-🔗 [Twitter](https://twitter.com/rewsyaydee)
+<div align="left">
+  <a href="https://www.linkedin.com/in/rusyaidimohdhusni" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn" style="margin-right: 10px;"/>
+  </a>
 
+  <a href="https://twitter.com/rewsyaydee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="Twitter" style="margin-right: 10px;"/>
+  </a>
+</div>
 ---
 
 > “Code like you build it for tomorrow.”
