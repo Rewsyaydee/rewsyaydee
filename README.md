@@ -46,7 +46,7 @@ A Computer Science student at **IIUM** who loves building things, exploring dece
 ### 📬 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rusyaidimohdhusni" target="_blank">
+  <a href="https://www.linkedin.com/in/rusyaidihusni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn" style="margin-right: 10px;"/>
   </a>
 
